@@ -10,7 +10,7 @@ Data Mirroring is a methodology developped by Daniel Jurg, Sarah Vis, and Ike Pi
 
 In order to perform our Data Mirroring methodologyin juncture with 4CAT, we have developped various application that simplify the process. These applications can pulled from each respective repository. 
 
-- **convert-tiktok-ddp:** Allows you to upload the full DDP that you received from TikTok as as a JSON-file and extract a CSV-file that only contains the videos that you 'browsed', 'liked', and 'favorited'.
+- **[convert-tiktok-ddp](https://github.com/dj-urg/convert-tiktok-ddp):** Allows you to upload the full DDP that you received from TikTok as as a JSON-file and extract a CSV-file that only contains the videos that you 'browsed', 'liked', and 'favorited'.
 - **convert-tiktok-ddp:** Allows you to upload specific files in the Data Download Package (DDP) that you received from Instagram as as a JSON-file and extract a CSV-file. 
 - **merge-tiktok-data:** Allows you to merge the captured data from 4CAT with the CSV-file of convert-tiktok-ddp.
 
