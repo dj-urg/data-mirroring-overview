@@ -19,5 +19,6 @@ In order to perform our Data Mirroring methodologyin juncture with 4CAT, we have
 To get started with Data Mirroring, please follow these steps:
 
 1. **Request Your Social Media Data:**
+2. 
    
 
