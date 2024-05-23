@@ -1,10 +1,10 @@
 # Data Mirroring (in progress)
 
-Welcome to Data Mirroring, an open-source initiative designed to help users reflect on their social media usage through the power of data visualization. By providing a "mirror" to your digital behaviors, this project aims to promote awareness, understanding, and thoughtful engagement with social media platforms.
+Welcome to Data Mirroring, an open-source initiative designed to help users reflect on their social media usage through the power of data visualization. By directing a "mirror" towards our digital behaviors, this project aims to promote reflexive and reflective awareness, understanding, and thoughtful engagement with social media platforms.
 
 ## Overview
 
-Data Mirroring is a methodology developed by Daniel Jurg, Sarah Vis, and Ike Picone at the University of Brussels. This GitHub repository presents a variety of applications developed for 'small-scale data donations'. The purpose is to transform Data Download Packages (DDP) provided by social media companies, specifically TikTok and Instagram, into more manageable formats that can be analyzed with spreadsheet software. Our project is specifically designed to work in conjunction with the 4CAT: Capture and Analysis Toolkit, where the actual analysis takes place. 4CAT is also an open-source application that can be cloned from GitHub and run locally or on a cloud server. For more information, visit the [4CAT GitHub repository](https://github.com/digitalmethodsinitiative/4cat).
+Data Mirroring is a methodology being developed by Daniel Jurg, Sarah Vis, and Ike Picone at the University of Brussels. This GitHub repository presents a variety of applications developed for 'small-scale data donations'. The purpose is to allow researchers and social media users to transform so-called Data Download Packages (DDP) provided by social media companies, specifically TikTok and Instagram, into more manageable formats that can be analyzed with spreadsheet software. Moreover, these conversion tools aim to give power to data donors to exactly see and understand the data that is being donated and strips this data of much personal information. This GitHub repository presents a variety of applications developed for 'small-scale data donations'. Our project is specifically designed to work in conjunction with the 4CAT: Capture and Analysis Toolkit, where the actual analysis of social media data takes place. 4CAT is also an open-source application that can be cloned from GitHub and run locally or on a cloud server. For more information, visit the [4CAT GitHub repository](https://github.com/digitalmethodsinitiative/4cat).
 
 ## Applications
 
@@ -22,8 +22,6 @@ To get started with Data Mirroring, please follow these steps:
 2. **Clone the Repositories:** Clone the repositories of the applications you need to use for converting and merging your data.
    ```sh
    git clone https://github.com/dj-urg/convert-tiktok-ddp
-   git clone [URL for convert-instagram-ddp]
-   git clone [URL for merge-tiktok-data]
 3. **Install Dependencies:** Navigate to each cloned repository and install the necessary dependencies.
 4. **Run the Applications:** Follow the instructions in each repository's README file to run the applications and process your data.
 
