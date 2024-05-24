@@ -12,16 +12,10 @@ To perform our Data Mirroring methodology in conjunction with 4CAT, we have deve
 
 - **[data-mirroring-dash-application](https://github.com/dj-urg/data-mirroring-dash-application):** Allows you to upload the full DDP you received from TikTok and Instagram as a JSON file and extract a CSV files and inititial visualizations.
 
-## Getting Started
+## Method
 
-To get started with Data Mirroring, please follow these steps:
+To be added...
 
-1. **Request Your Social Media Data:** Obtain your Data Download Package (DDP) from the social media platforms you use, such as TikTok and Instagram.
-2. **Clone the Repositories:** Clone the repositories of the applications you need to use for converting and merging your data.
-   ```sh
-   git clone (https://github.com/dj-urg/data-mirroring-dash-application)
-3. **Install Dependencies:** Navigate to each cloned repository and install the necessary dependencies.
-4. **Run the Applications:** Follow the instructions in each repository's README file to run the applications and process your data.
 
 ## Contributing
 We welcome contributions from the community. If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request.
